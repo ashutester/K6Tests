@@ -16,7 +16,7 @@ export const options = {
 export default function () {
   const url = "https://dummyjson.com/auth/login";
   const payload = JSON.stringify({
-    username: "sophiab",K6
+    username: "sophiab",
     password: "sophiabpass",
   });
   const params = {
